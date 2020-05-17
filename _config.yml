@@ -13,3 +13,4 @@ header_pages:
   - features.md
 plugins:
   - jekyll-seo-tag
+baseurl: https://john-walks-slow.github.io/cemetery-of-ncov-news/
