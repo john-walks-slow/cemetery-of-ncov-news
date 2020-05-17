@@ -17,4 +17,3 @@ echo "Master Pushed!"
 
 cd ..
 git checkout source
-git pull
