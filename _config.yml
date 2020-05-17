@@ -13,5 +13,5 @@ header_pages:
   - features.md
 plugins:
   - jekyll-seo-tag
-url: "https://john-walks-slow.github.io/cemetery-of-ncov-news"
-baseurl: "https://john-walks-slow.github.io/cemetery-of-ncov-news"
+url: "https://john-walks-slow.github.io"
+baseurl: "cemetery-of-ncov-news"
