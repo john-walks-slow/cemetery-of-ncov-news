@@ -1,7 +1,5 @@
 #!/bin/bash
-
 jekyll build
-
 git add .
 git commit -m "Update posts $today"
 git push
